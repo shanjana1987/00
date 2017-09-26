@@ -19,6 +19,7 @@ namespace _00.Tests
         }
 
         [TestMethod()]
+
         public void DivideTest()
         {
             double ex = 8;
